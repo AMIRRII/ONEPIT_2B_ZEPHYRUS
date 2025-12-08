@@ -1,2 +1,7 @@
-# JavaCaseProblem_2B_ZEPHYRUS
+# ONEPIT_2B_ZEPHYRUS
 PERFORMANCE INNOVATIVE TASK FOR OBJECT ORIENTED PROGRAMMING IT214
+
+Team Zephyrus Members:
+Franz Stephen Duma-og
+Avril Shane Patcho
+Luziel Tillo
