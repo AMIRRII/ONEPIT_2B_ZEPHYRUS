@@ -1,0 +1,17 @@
+INSTALLATION AND RUN INSTRUCTIONS
+
+WINDOWS -
+
+Step 1: Open Folder Via VSCode or any compiler of your choice
+Step 2: In VSCode, Open Folder >  BHRMS-WINDOWS
+Step 3: Locate File Directory: BHRMS/bhrms-project-windows/src/Main.java
+Step 5: Open XAMPP and Start Apache and MySQL database. (VERY IMPORTANT)
+Step 4: Select Main.java on VSCode and click "Run" just above the 'public static void main()'. 
+Note: You must have Java Extension Pack installed.
+
+LINUX (UBUNTU) - 
+
+Step 1: Open Terminal on Linux
+Step 2: Type this command promt "cd ~/bhrms-project"
+Step 3: And then after type this command "./quick-start.sh"
+The system should run after executing the following commands.
